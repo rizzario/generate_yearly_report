@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Qn0fXKj5PE2JZph6cFVr4w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="3571a9fc-a861-4485-a90e-a62510d3ea6f" CvElementArea="343, 574, 275, 41" CvType="InputBox" DesignTimeRectangle="344, 572, 275, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-role='button' tag='BUTTON' /&gt;" Guid="bf26229b-2570-4f89-bde8-6455581d290c" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3571a9fc-a861-4485-a90e-a62510d3ea6f" CvTextArea="342, 544, 60, 17" CvTextArgument="Month:" CvType="Text" DesignTimeRectangle="344, 541, 58, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Month:' tag='LABEL' /&gt;" Guid="033f9331-e61f-431c-a4fe-6198d9a2525a" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="da1fefa01c605d4eb060a2e701ed39e7.png" xmlns="">0J4vjg0v5IUeX-5wcVNlY7w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

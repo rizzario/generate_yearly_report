@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GUHhBOP03ESenZr7QtLq2A" Reference="f6VrUbPJg0m_1IGv4MINyQ/xSu8EUe_J0204mzVvRcq2g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="39950ca7-a8a5-4b0c-a0f7-486834c57d8e" CvTextArea="256, 236, 717, 45" CvTextArgument="Reports - Download Monthly Report" CvType="Text" DesignTimeRectangle="257, 230, 1425, 61" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' /&gt;" Guid="9ad5d631-a1e8-4ded-bf7d-fd1c70c0b0fd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="c9fd0f8e8fc2c0ba8410c1f7f6c272f8.png" xmlns="">0dWd_bbWjR0Oo3WicuzClEA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

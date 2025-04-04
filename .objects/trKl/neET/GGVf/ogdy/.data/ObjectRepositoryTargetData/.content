@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="B9qnt-31SUWK2IAsrYbBUg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="7e66294c-fd24-4ca8-a598-975aeec004b8" CvElementArea="342, 478, 608, 47" CvType="InputBox" DesignTimeRectangle="344, 480, 606, 42" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='vendorTaxID' tag='INPUT' /&gt;" Guid="48333e75-f4ee-460d-b051-98d0ed48f945" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7e66294c-fd24-4ca8-a598-975aeec004b8" CvTextArea="341, 452, 118, 16" CvTextArgument="Vendor TaxID:" CvType="Text" DesignTimeRectangle="344, 449, 116, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" Guid="b2a8ad15-352c-40bf-a69e-4c586947927c" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="554d09b158c46fd7f7c03db159a2ccd1.png" xmlns="">0yFQtzx52REiAG9tYEIoK8Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
